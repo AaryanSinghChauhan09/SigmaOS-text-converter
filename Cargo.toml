@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-text-converter"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS text-converter component"
+
+[lib]
+name = "text_converter"
+path = "src/lib.rs"
